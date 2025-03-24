@@ -2,15 +2,15 @@
 
 Time Series Demand Forecasting | Inventory Optimization | Dynamic Pricing
 
-# 📊 Sales Analytics Project
+# Sales Analytics Project
 
 This project presents a comprehensive analysis of sales data with a focus on uncovering trends, forecasting future demand, and understanding the impact of pricing strategies.
 
 ---
 
-## 🔍 Project Highlights
+## Project Highlights
 
-### 🧠 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 I began the project with a deep-dive Exploratory Data Analysis to understand the structure, quality, and behavior of the dataset. Key steps included:
 
@@ -23,7 +23,7 @@ This helped me frame the business context and spot initial insights, such as pea
 
 ---
 
-### ⏳ Time Series Forecasting
+### Time Series Forecasting
 
 To anticipate future demand, I trained and evaluated multiple time series models including:
 
@@ -42,7 +42,7 @@ These forecasts provide a reliable foundation for planning inventory, staffing, 
 
 ---
 
-### 💸 Pricing Analysis
+### Pricing Analysis
 
 I performed pricing analysis to understand the impact of discounts and competition on sales performance. Techniques used:
 
@@ -55,13 +55,13 @@ This part of the project offered valuable insight into how price points and comp
 
 ---
 
-## 📂 Outputs
+## Outputs
 
 All interactive visualizations were generated using Plotly and exported as `.svg` files for web embedding. The analysis and narrative were compiled into a single HTML dashboard and exported document using Jupyter and `quarto`.
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **PySpark** – For handling large-scale data and performing SQL-like queries.
 - **Pandas** – For data manipulation and wrangling.
@@ -72,7 +72,7 @@ All interactive visualizations were generated using Plotly and exported as `.svg
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Prabu Jeyabalan**  
 MS in Applied Business Analytics  
@@ -80,7 +80,7 @@ Boston University
 
 ---
 
-## 📌 Summary
+## Summary
 
 This project demonstrates end-to-end sales analytics capabilities—from discovering patterns and visualizing insights to predicting future demand and optimizing pricing strategy. It is a practical blend of data science, storytelling, and decision intelligence.
 
