@@ -4,7 +4,7 @@ Time Series Demand Forecasting | Inventory Optimization | Dynamic Pricing
 
 # 📊 Sales Analytics Project
 
-This project presents a comprehensive analysis of sales data with a focus on uncovering trends, forecasting future demand, and understanding the impact of pricing strategies. The work was completed as part of a Visual Reporting & Storytelling module, where interactive and impactful data visualizations were generated using Plotly and PySpark.
+This project presents a comprehensive analysis of sales data with a focus on uncovering trends, forecasting future demand, and understanding the impact of pricing strategies.
 
 ---
 
