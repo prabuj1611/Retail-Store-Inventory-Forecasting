@@ -1,6 +1,5 @@
-# Retail-Store-Inventory-Forecasting-
 
-Time Series Demand Forecasting | Inventory Optimization | Dynamic Pricing
+# Time Series Demand Forecasting | Inventory Optimization | Dynamic Pricing
 
 # Sales Analytics Project
 
