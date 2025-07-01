@@ -1,8 +1,12 @@
 
 🛒 **Retail Sales Forecasting with Prophet**
-This project focuses on analyzing and forecasting daily item-level retail sales using time series techniques, primarily leveraging Facebook Prophet. The dataset contains over 900,000 records of sales for 50 items across 10 stores from 2013 to 2017.
+
+- This project focuses on analyzing and forecasting daily item-level retail sales using time series techniques, primarily leveraging Facebook Prophet. 
+
+- The dataset contains over 900,000 records of sales for 50 items across 10 stores from 2013 to 2017.
 
 📌 Objective
+
 Perform exploratory data analysis (EDA) to understand sales patterns.
 
 Visualize growth trends and seasonality at multiple granularities (daily, monthly, yearly).
